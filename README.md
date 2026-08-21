@@ -73,7 +73,3 @@ dsh-quote-ai-output/
 │   └── client.js         # 浏览器端完整逻辑（module-loader 格式）
 └── README.md
 ```
-
-## 许可
-
-MIT
